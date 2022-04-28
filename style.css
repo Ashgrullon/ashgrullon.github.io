@@ -1,0 +1,22 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#results {
+    display:none;
+  }
+
+  body {
+    height: 100vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    color: rgb(208, 109, 3);
+    
+}
+
